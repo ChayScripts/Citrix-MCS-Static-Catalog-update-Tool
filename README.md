@@ -34,7 +34,7 @@ This tool will:
 
 ### Quick look at the tool
 
-![Alt Text](https://raw.githubusercontent.com/TechScripts/Citrix-MCS-Static-Catalog-update-Tool/master/Catalog%20Update%20Tool%20Image.PNG)
+![Alt Text](https://raw.githubusercontent.com/TechScripts/Citrix-MCS-Static-Catalog-update-Tool/master/Catalog-Update-Tool-Image.PNG)
 
 ### Who can use
 
