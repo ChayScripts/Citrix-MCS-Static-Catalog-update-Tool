@@ -2,7 +2,7 @@
 
 Tool to update MCS static machine catalogs.
 
-##Motivation
+## Motivation
 
 Having powershell knowledge is beneficial but not everyone in citrix team knows Posh. So, there may be a dependency for team members who knows scripting/powershell. This tool eliminates such gaps in the team. With this tool anyone can update static machine catalogs.
 
