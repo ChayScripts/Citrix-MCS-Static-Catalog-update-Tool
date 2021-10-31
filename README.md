@@ -48,7 +48,7 @@ Preferably Citrix Team/Admins who are responsible for catalog updates.
 
 ### Authors
 
-* **Tech Guy** - [TechScripts](https://github.com/TechScripts)
+* **Chay** - [ChayScripts](https://github.com/ChayScripts)
 
 ### Contributing
 
